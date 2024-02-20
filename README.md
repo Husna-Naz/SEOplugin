@@ -1,1 +1,2 @@
 # SEOplugin
+Author Husna Naz
